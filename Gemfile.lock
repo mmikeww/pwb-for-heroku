@@ -1,9 +1,9 @@
 GIT
-  remote: https://github.com/etewiah/property_web_builder
-  revision: 5916d263911a23af1e7da37cc7ce05d39701f420
+  remote: https://github.com/mmikeww/property_web_builder
+  revision: 8e397ca497ff9063c090c79c6212050ccbd5564b
   branch: master
   specs:
-    pwb (0.2.0)
+    pwb (1.0.0)
       active_hash
       activemodel-serializers-xml
       bootstrap-sass
